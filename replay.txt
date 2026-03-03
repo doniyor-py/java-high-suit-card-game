@@ -1,0 +1,48 @@
+-------------------------
+Player: Computer    Round: 1
+-------------------------
+
+Initial hand:
+3 of Hearts
+King of Clubs
+2 of Diamonds
+Ace of Hearts
+5 of Spades
+
+Bonus suit: Hearts
+
+Cards dropped: King of Clubs, 2 of Diamonds, 5 of Spades
+
+Final hand:
+3 of Hearts
+Ace of Hearts
+3 of Spades
+Queen of Hearts
+10 of Hearts
+
+Score: 39
+
+-------------------------
+Player: Computer    Round: 1
+-------------------------
+
+Initial hand:
+4 of Spades
+7 of Clubs
+King of Diamonds
+Queen of Diamonds
+10 of Spades
+
+Bonus suit: Diamonds
+
+Cards dropped: 4 of Spades, 7 of Clubs, 10 of Spades
+
+Final hand:
+King of Diamonds
+Queen of Diamonds
+8 of Diamonds
+Ace of Diamonds
+7 of Diamonds
+
+Score: 51
+

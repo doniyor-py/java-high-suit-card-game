@@ -1,0 +1,55 @@
+Game Date: 2025-12-15 20:53:46
+Players: Doniyor vs computer
+Rounds: 1
+Final Scores: Doniyor: 22, computer: 21
+
+==================================================
+
+-------------------------
+Player: Doniyor    Round: 1
+-------------------------
+
+Initial hand:
+9 of Hearts
+4 of Spades
+Queen of Clubs
+8 of Hearts
+Ace of Diamonds
+
+Bonus suit: Hearts
+
+Cards dropped: 4 of Spades
+
+Final hand:
+9 of Hearts
+Queen of Clubs
+8 of Hearts
+Ace of Diamonds
+8 of Spades
+
+Score: 22
+
+-------------------------
+Player: computer    Round: 1
+-------------------------
+
+Initial hand:
+6 of Hearts
+King of Hearts
+9 of Clubs
+10 of Diamonds
+4 of Diamonds
+
+Bonus suit: Hearts
+
+Cards dropped: 9 of Clubs, 10 of Diamonds, 4 of Diamonds
+
+Final hand:
+6 of Hearts
+King of Hearts
+4 of Spades
+8 of Spades
+8 of Diamonds
+
+Score: 21
+
