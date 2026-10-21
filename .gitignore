@@ -2,3 +2,6 @@
 build/
 nbproject/private/
 .DS_Store
+highscores.txt
+replay.txt
+replay_history/
